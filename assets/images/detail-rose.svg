@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" rx="48" fill="#f2dfda"/>
+  <circle cx="980" cy="180" r="170" fill="white" fill-opacity="0.42"/>
+  <circle cx="180" cy="760" r="190" fill="white" fill-opacity="0.34"/>
+  <path d="M173 457C248 301 402 263 505 328C615 397 665 594 803 630C890 654 973 606 1027 540" stroke="#9d625b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M188 548C265 426 410 401 518 461C620 518 683 682 838 701C924 712 994 679 1047 630" stroke="#9d625b" stroke-opacity="0.55" stroke-width="4" stroke-linecap="round"/>
+  <rect x="92" y="96" width="360" height="150" rx="28" fill="white" fill-opacity="0.74"/>
+  <text x="132" y="150" fill="#9d625b" font-family="Georgia, serif" font-size="38" font-weight="500">Cuidado</text>
+  <text x="132" y="198" fill="#9d625b" font-family="Georgia, serif" font-size="38" font-weight="500">individualizado</text>
+  <text x="96" y="840" fill="#9d625b" fill-opacity="0.78" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="3">MICHELE OSTEOPATIA</text>
+</svg>
